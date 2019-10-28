@@ -1,0 +1,4 @@
+com\csh\springcloud\pojo\DeptEntity.class
+com\csh\springcloud\service\DeptClientServiceFallBackFactory.class
+com\csh\springcloud\service\DeptClientService.class
+com\csh\springcloud\service\DeptClientServiceFallBackFactory$1.class
